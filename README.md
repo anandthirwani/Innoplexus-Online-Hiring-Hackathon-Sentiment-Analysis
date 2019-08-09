@@ -40,3 +40,5 @@ The final rankings would be based on your private score which will be published 
 
 
 __Leaderboard Rank: 36 (Score: 0.5165455723)__
+
+## Architecture Used
